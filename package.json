@@ -57,7 +57,7 @@
     "cookies-js": "^1.2.2",
     "d3": "^4.2.8",
     "dependency-check": "^2.5.1",
-    "enzyme": "^2.6.0",
+    "enzyme": "^2.7.1",
     "enzyme-to-json": "^1.4.4",
     "event-to-promise": "^0.7.0",
     "font-awesome": "^4.7.0",
